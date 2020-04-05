@@ -1,0 +1,76 @@
+body {
+    margin: 0 auto 0 auto;
+    width: 1219px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+}
+.nav {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    font-size: 24px;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+header {
+    padding: 20px 40px;
+    background-color: #007765;
+    position: fixed;
+    width: 1139px;
+}
+.img-block {
+    width: 1219px;
+}
+.Jumbotron {
+    margin-top: 89px;
+}
+#PiedPiperCoin {
+    background-color: white;
+}
+h1 {
+    font-size: 64px;
+    text-align: center;
+    color: #007765;
+}
+p {
+    font-size: 32px;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+.PPC_Logo {
+    width: 115px;
+    float: left;
+    padding-right: 40px;
+    padding-left: 55px;
+}
+.clear {
+    clear: both;
+}
+.card img {
+    width: 168px;
+}
+.card {
+    display: inline-block;
+    padding: 69px;
+    text-align: center;
+}
+.name {
+    font-size: 24px;
+    color: #007765;
+}
+.position {
+    font-size: 18px;
+    font-style: italic;
+}
+footer {
+    background-color: #333333;
+
+    color: #fff;
+    text-align: center;
+}
+footer p {
+    font-size: 18px;
+    padding: 50px 30%;
+}
