@@ -1,2 +1,2 @@
-# FreeCodeCamp-Landing-Page
- FreeCodeCamp Landing Page task
+# Stepic-Landing-Page
+ Stepic Landing Page task
